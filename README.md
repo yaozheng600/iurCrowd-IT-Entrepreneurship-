@@ -13,4 +13,9 @@ At the Intel chip hardware level, it is guaranteed that data calculations are ex
 ### 5. Homomorphic encryption
 Use a variety of security encryption technologies to encrypt data or query information, and the entire data interaction process is data ciphertext to ensure data security.
 ## PRODUCT ARCHITECTURE
-[!]()
+![](https://github.com/yaozheng600/iurCrowd_IT-Entrepreneurship/blob/Master/Archi.png)
+## PRODUCT ADVANTAGES
+### 1.Data encryption calculation
+The data provider locally completes the data query process and encrypts it, and the ciphertext feedbacks the query result to ensure the privacy of the original data.
+### 2.Data supervision audit
+All data interaction records such as calculations, feedback, and billing have been recorded on the block chain, allowing detailed supervision and auditing of the data.
