@@ -9,7 +9,8 @@ Secure multi-party computing supports custom complex scripts, can realize comple
 ### 3. Monitoring and auditing on the data link
 Block chain technology is used to record every interaction process of data to ensure that the data is not tampered with and the data can be traced.
 ### 4. Trusted Environment (SGX)
-At the Intel chip hardware level, it is guaranteed that data calculations are executed in a trusted isolation domain environment to ensure that calculations are not maliciously attacked.
+At the Intel chip hardware level, it is guaranteed that data calculations are executed in a trusted isolation domain environment to ensure that calculations are not maliciously attacked.     
+[SGX info](https://blog.quarkslab.com/overview-of-intel-sgx-part-1-sgx-internals.html)
 ### 5. Homomorphic encryption
 Use a variety of security encryption technologies to encrypt data or query information, and the entire data interaction process is data ciphertext to ensure data security.
 ## PRODUCT ARCHITECTURE
